@@ -13,7 +13,3 @@ C# and Canvas LMS
         + https://visualstudiomagazine.com/articles/2015/10/01/consume-a-webapi.aspx
         + https://community.canvaslms.com/thread/21958-upload-files-via-api#comment-95253
         + https://community.canvaslms.com/thread/21958-upload-files-via-api#comment-95253
-#  UVA Canvas
-    +  production - universityview.instructure.com --> uview.instructure.com
-    +   test - universityview.test.instructure.com
-    +   beta - universityview.beta.instructure.com
